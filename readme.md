@@ -1,5 +1,5 @@
 
-<h1 align="center">📝 GitHub README Generator</h1>
+<h1 align="center">📝 Hallo Semua!</h1>
 <p align="center">
   A sleek web app to generate beautiful GitHub profile READMEs visually — no Markdown needed!
 </p>
@@ -27,14 +27,6 @@
 * 🧾 Live Markdown preview and raw markdown view
 * 📋 Copy to clipboard or download as file
 * 💻 Fully responsive and static deployable
-
-## 🚀 Live Demo
-
-🔗 **[Click here to try it!](https://widyy123.github.io/Github-Profile-Generator)**
-
-## 🖼️ Screenshots
-
-![Image](https://github.com/user-attachments/assets/8fe30f19-6897-418e-949e-4bf8a6a76b17)
 
 ## 🛠️ Tech Stack
 
@@ -93,3 +85,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## ⭐️ Show Your Support
 
 If you like this project, give it a ⭐️ on [GitHub](https://github.com/widyy123/Github-Profile-Generator)!
+
