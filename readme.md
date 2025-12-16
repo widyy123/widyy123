@@ -1,9 +1,9 @@
 <div align="center">
 
-#✨
-# 🙋‍♀️ HALLO Semuanya 🙋‍♀️ width="400"/>
+✨
+# 🙋‍♀️ HALLO EVERYONE 🙋‍♀️
 <br>
-# ✨ 
+✨ 
 
 <p>
   Seorang mahasiswa yang bersemangat dalam dunia teknologi dan pemrograman.
@@ -124,6 +124,7 @@ Badge | URL
 > 🎉 Happy Coding! Mari berjejaring dan berkolaborasi.
 
 ---
+
 
 
 
