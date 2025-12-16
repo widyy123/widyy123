@@ -19,7 +19,7 @@ Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor t
 <p align='center'>
   <a href="https://github.com/sponsors/alexandresanlim"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
   &nbsp;
-  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/Badges4-README.md-Profile?style=for-the-badge" /></a>
+  <a href="https://github.com/alexandresanlim/Widya Rustri Pratiwi/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/Widya Rustri Pratiwi?style=for-the-badge" /></a>
 </p>
 <br />
 
@@ -177,6 +177,7 @@ Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">M
 <a href="#top">Back to top</a>
 
 *Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+
 
 
 
