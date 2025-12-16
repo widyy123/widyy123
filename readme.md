@@ -1,4 +1,7 @@
 <div align="center">
+
+<alt="HAllo Semuanya" width="300"/> 
+<br>
 # 🙋‍♀️ HALLO Semuanya 🙋‍♀️
 # ✨ Widya Rustri Pratiwi ✨
 
@@ -121,6 +124,7 @@ Badge | URL
 > 🎉 Happy Coding! Mari berjejaring dan berkolaborasi.
 
 ---
+
 
 
 
