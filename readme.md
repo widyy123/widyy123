@@ -1,12 +1,12 @@
 <div align="center">
 
 ✨✨✨
-# 🙋‍♀️ HALLO EVERYONE 🙋‍♀️
+# 🙋‍♀️ Hallo Everyone 🙋‍♀️
 <br>
 
 
 <p>
-  Seorang mahasiswa yang bersemangat dalam dunia teknologi dan pemrograman.
+  A student who is passionate about the world of technology and programming.
 </p>
 
 <a href="mailto:pratiwiiwidya116@gmail.com">
@@ -34,7 +34,7 @@
 
 ## 🙋‍♀️ About Me
 
-Saya adalah seorang individu yang bersemangat dalam dunia teknologi. Berikut adalah ringkasan singkat tentang saya:
+I am an individual who is passionate about the world of technology. Here is a brief summary about me:
 
 | Keterangan | Detail |
 | :--- | :--- |
@@ -121,9 +121,10 @@ Badge | URL
 
 ---
 
-> 🎉 Happy Coding! Mari berjejaring dan berkolaborasi.
+> 🎉 Happy Coding! Let's network and collaborate.
 
 ---
+
 
 
 
