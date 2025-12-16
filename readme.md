@@ -7,15 +7,15 @@
   Seorang mahasiswa yang bersemangat dalam dunia teknologi dan pemrograman.
 </p>
 
-<a href="mailto:emailanda@example.com">
+<a href="mailto:pratiwiiwidya116@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/profil-anda">
+<a href="https://www.linkedin.com/in/widya-pratiwi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://instagram.com/instagram_anda">
+<a href="https://instagram.com/wdyayyprtiwii">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
@@ -24,13 +24,23 @@
 
 ---
 
+---
+
 ## 🙋‍♀️ About Me
 
-Saya **Widya Rustri Pratiwi**, mahasiswa semester 3 di UNIB (Universitas Bengkulu) berusia 19 tahun, tinggal di Bengkulu Utara. Saya aktif belajar dan mendalami *web development* serta berbagai bahasa pemrograman.
+Saya adalah seorang individu yang bersemangat dalam dunia teknologi. Berikut adalah ringkasan singkat tentang saya:
 
-* **📚 Sedang Mempelajari:** **JavaScript**, **Python**, dan **UI/UX Design**. (Sesuaikan ini!)
-* **🎯 Tujuan Saya:** Menjadi seorang *Full-Stack Developer* yang handal.
-* **📍 Status:** Menerima peluang kolaborasi dan proyek kecil.
+| Keterangan | Detail |
+| :--- | :--- |
+| **Nama Lengkap** | Widya Rustri Pratiwi |
+| **Status** | Mahasiswa Semester 3 |
+| **Institusi** | UNIB (Universitas Bengkulu) |
+| **Usia** | 19 Tahun |
+| **Domisili** | Bengkulu Utara |
+| **Fokus Studi** | Web Development, Pemrograman, AI/ML |
+| **Tujuan Karir** | Menjadi Full-Stack Developer yang handal |
+
+---
 
 ---
 
@@ -69,3 +79,4 @@ Saya **Widya Rustri Pratiwi**, mahasiswa semester 3 di UNIB (Universitas Bengkul
 > 🎉 Happy Coding! Mari berjejaring dan berkolaborasi.
 
 ---
+
