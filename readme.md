@@ -1,45 +1,71 @@
-<h1 align='center'>
-  Welcome to Widya's GitHub Profile!
-</h1>
+<div align="center">
 
-<p align='center'>
-  Halo semua! Saya <strong>Widya Rustri Pratiwi</strong>, seorang mahasiswa yang bersemangat dalam dunia teknologi dan pemrograman.
+# ✨ Welcome to My Digital Garden! ✨
+## Halo! Saya Widya Rustri Pratiwi 👋
+
+<p>
+  Seorang mahasiswa yang bersemangat dalam dunia teknologi dan pemrograman.
 </p>
 
-<p align='center'>
-Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor this project</a> ❤️
-</p>
+<a href="mailto:emailanda@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/profil-anda">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/instagram_anda">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-<br />
+<br><br>
+</div>
+
+---
 
 ## 🙋‍♀️ About Me
 
-Saya **Widya Rustri Pratiwi**, mahasiswa semester 3 di UNIB (Universitas Bengkulu) dengan usia 19 tahun, tinggal di Bengkulu Utara. Saya aktif belajar dan mendalami *web development* dan berbagai bahasa pemrograman.
+Saya **Widya Rustri Pratiwi**, mahasiswa semester 3 di UNIB (Universitas Bengkulu) berusia 19 tahun, tinggal di Bengkulu Utara. Saya aktif belajar dan mendalami *web development* serta berbagai bahasa pemrograman.
 
-* **📚 Sedang Mempelajari:** (Contoh: JavaScript, Python, UI/UX Design)
+* **📚 Sedang Mempelajari:** **JavaScript**, **Python**, dan **UI/UX Design**. (Sesuaikan ini!)
 * **🎯 Tujuan Saya:** Menjadi seorang *Full-Stack Developer* yang handal.
-* **📫 Hubungi Saya:** [Tambahkan Tautan Kontak Anda di sini (misalnya LinkedIn atau Email)]
+* **📍 Status:** Menerima peluang kolaborasi dan proyek kecil.
 
 ---
+
+<div align="center">
 
 ## 🛠️ My Tech Stack
 
-| Teknologi | Badge Contoh |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
+### Languages & Tools
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+### Frontend & Frameworks
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+
+### Databases
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 
-[![widy123's GitHub stats](https://github-readme-stats.vercel.app/api?username=widy123&show_icons=true&theme=default)](https://github.com/widy123/widy123)
+[![widy123's GitHub stats](https://github-readme-stats.vercel.app/api?username=widy123&show_icons=true&theme=buefy&hide_border=true&rank_icon=title)](https://github.com/widy123/widy123)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widy123&layout=compact&theme=buefy&hide_border=true)](https://github.com/widy123/widy123)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widy123&layout=compact&theme=default)](https://github.com/widy123/widy123)
+<br>
+</div>
 
+---
+
+> 🎉 Happy Coding! Mari berjejaring dan berkolaborasi.
+
+---
