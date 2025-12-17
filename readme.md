@@ -35,12 +35,12 @@ I am an individual who is passionate about the world of technology. Here is a br
 | Keterangan | Detail |
 | :--- | :--- |
 | **Nama Lengkap** | Widya Rustri Pratiwi |
-| **Status** | Mahasiswa Semester 3 |
-| **Institusi** | UNIB (Universitas Bengkulu) |
+| **Status** | Mahasiswi |
+| **Institusi** |  Universitas Bengkulu |
 | **Usia** | 19 Tahun |
-| **Domisili** | Bengkulu Utara |
-| **Fokus Studi** | Web Development, Pemrograman, AI/ML |
-| **Tujuan Karir** | Menjadi Full-Stack Developer yang handal |
+| **Domisili** | Bengkulu Utara, Bengkulu |
+| **Fokus Studi** |  Pemrograman |
+| **Tujuan Karir** | Menjadi Software Engineer |
 ---
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
@@ -93,6 +93,7 @@ I am an individual who is passionate about the world of technology. Here is a br
 > 🎉 Happy Coding! Let's network and collaborate.
 
 ---
+
 
 
 
