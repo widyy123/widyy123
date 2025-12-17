@@ -26,8 +26,9 @@
 
 
 <div align="center">
----
-## 🙋‍♀️ About Me
+
+ ---
+ ## 🙋‍♀️ About Me
 
 I am an individual who is passionate about the world of technology. Here is a brief summary about me:
 
@@ -70,13 +71,11 @@ I am an individual who is passionate about the world of technology. Here is a br
 
 <div align="center">
 
----
-### Databases
+---### Databases
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 ---
 
----
-### Design Tools
+--- ### Design Tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 ---
@@ -97,6 +96,7 @@ I am an individual who is passionate about the world of technology. Here is a br
 > 🎉 Happy Coding! Let's network and collaborate.
 
 ---
+
 
 
 
