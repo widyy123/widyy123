@@ -24,16 +24,6 @@
 <br><br>
 </div>
 
-<div align="center">
-
----
-## Menu
-- [📝 About Me](#-about_me-)
-- [📱 Contact](#-contact-)
-- [🤜🤛 Group](#-group-)
-- [👨 Social](#-social-)
-- [🛒 Store](#-store-)
----
 
 <div align="center">
 ---
@@ -107,6 +97,7 @@ I am an individual who is passionate about the world of technology. Here is a br
 > 🎉 Happy Coding! Let's network and collaborate.
 
 ---
+
 
 
 
