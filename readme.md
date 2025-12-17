@@ -24,6 +24,8 @@
 <br><br>
 </div>
 
+<div align="center">
+
 ---
 ## Menu
 - [📝 About Me](#-about_me-)
@@ -33,6 +35,7 @@
 - [🛒 Store](#-store-)
 ---
 
+<div align="center">
 ---
 ## 🙋‍♀️ About Me
 
@@ -88,11 +91,13 @@ I am an individual who is passionate about the world of technology. Here is a br
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 ---
 
+---
 ## 📊 GitHub Insights
 
 [![widy123's GitHub stats](https://github-readme-stats.vercel.app/api?username=widy123&show_icons=true&theme=buefy&hide_border=true&rank_icon=title)](https://github.com/widy123/widy123)
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widy123&layout=compact&theme=buefy&hide_border=true)](https://github.com/widy123/widy123)
+---
 
 <br>
 </div>
@@ -102,6 +107,7 @@ I am an individual who is passionate about the world of technology. Here is a br
 > 🎉 Happy Coding! Let's network and collaborate.
 
 ---
+
 
 
 
