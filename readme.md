@@ -31,7 +31,9 @@
 - [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
 - [🛒 Store](#-store-)
+---
 
+---
 ## 🙋‍♀️ About Me
 
 I am an individual who is passionate about the world of technology. Here is a brief summary about me:
@@ -45,6 +47,7 @@ I am an individual who is passionate about the world of technology. Here is a br
 | **Domisili** | Bengkulu Utara |
 | **Fokus Studi** | Web Development, Pemrograman, AI/ML |
 | **Tujuan Karir** | Menjadi Full-Stack Developer yang handal |
+---
 
 <div align="center">
 
@@ -74,22 +77,15 @@ I am an individual who is passionate about the world of technology. Here is a br
 
 <div align="center">
 
-## 🛠️ My Tech Stack
-
-### Languages & Tools
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
+---
 ### Databases
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+---
 
+---
 ### Design Tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-
 ---
 
 ## 📊 GitHub Insights
@@ -106,6 +102,7 @@ I am an individual who is passionate about the world of technology. Here is a br
 > 🎉 Happy Coding! Let's network and collaborate.
 
 ---
+
 
 
 
